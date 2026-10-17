@@ -54,8 +54,8 @@ not what Bash would actually execute.
 ## Usage
 
 ```bash
-chmod +x xtracer-wannabe
-./xtracer-wannabe script.sh
+chmod +x pseudox
+./pseudox script.sh
 ```
 ## License
 
